@@ -51,7 +51,7 @@ class _calculatorState extends State<calculator> {
       backgroundColor: Colors.black,
       appBar: AppBar(
         title: Text(
-          "EasyWisy's calcualtor",
+          "Kshitij's calcualtor",
           style: TextStyle(color: Colors.white),
         ),
         backgroundColor: Colors.black,
